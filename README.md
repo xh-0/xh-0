@@ -2,7 +2,9 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaohunb666)
 
-👦Stay curious, stay naive.
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=suxiaohutot)]()
+
+> 👦Stay curious, stay naive.
 
 My name is xiaohuhu. This is my world. 
 - 👏 欢迎来到大猫的友人帐专属小屋 ，我是你的好朋友大猫兄！
@@ -15,4 +17,4 @@ My name is xiaohuhu. This is my world.
 - 奥利给！🙋
  😘 Enjoy~
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=suxiaohutot)]()
+
