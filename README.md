@@ -17,4 +17,4 @@ My name is xiaohuhu. This is my world.
 - 奥利给！🙋
 😘 Enjoy~
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?suxiaohutot=suxiahutot)]()
